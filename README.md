@@ -1,16 +1,22 @@
 ### Hi there 👋
+<pre>
+----------------------------------------
+<span> ⚡ nam-th ⚡, Hello World!!</span>
+----------------------------------------
+      \   ^__^
+       \  (oo)\_______
+          (__)\ 0   0 )\  *
+              ||--0-w | \/
+              ||     ||
+</pre>
 
-<!--
-**nam-th/nam-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working as a Development Engineer for [VNDEV Vietnam](https://vn-dev.com) ...👋
 
-Here are some ideas to get you started:
+### Check out my social medias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 [Personal blog](https://tayto.club)
+- 💬 [Facebook](https://www.facebook.com/namthz)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nam-th/)
+
+### and just a funny gif...😛
+![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)

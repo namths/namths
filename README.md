@@ -18,5 +18,7 @@ I am currently working as a Development Engineer for [VNDEV Vietnam](https://vn-
 - 💬 [Facebook](https://www.facebook.com/namthz)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nam-th/)
 
+![nam-th's github stats](https://github-readme-stats.vercel.app/api?username=nam-th&show_icons=true)
+
 ### and just a funny gif...😛
 ![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)

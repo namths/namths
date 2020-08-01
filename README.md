@@ -21,4 +21,4 @@ I am currently working as a Development Engineer for [VNDEV Vietnam](https://vn-
 ![nam-th's github stats](https://github-readme-stats.vercel.app/api?username=namthz&show_icons=true)
 
 ### and just a funny gif...😛
-![](https://giphy.com/embed/Um3ljJl8jrnHy)
+![https://tayto.club](https://media.giphy.com/media/l3nSWRgDAparB8ad2/giphy.gif)

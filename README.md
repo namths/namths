@@ -1,7 +1,7 @@
 ### Hi there 👋
 <pre>
 ----------------------------------------
-<span> ⚡ nam-th ⚡, Hello World!!</span>
+<span> ⚡ namthz ⚡, Hello World!!</span>
 ----------------------------------------
       \   ^__^
        \  (oo)\_______
@@ -16,9 +16,9 @@ I am currently working as a Development Engineer for [VNDEV Vietnam](https://vn-
 
 - 📫 [Personal blog](https://tayto.club)
 - 💬 [Facebook](https://www.facebook.com/namthz)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nam-th/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/namthz/)
 
-![nam-th's github stats](https://github-readme-stats.vercel.app/api?username=nam-th&show_icons=true)
+![nam-th's github stats](https://github-readme-stats.vercel.app/api?username=namthz&show_icons=true)
 
 ### and just a funny gif...😛
 ![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)

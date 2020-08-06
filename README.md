@@ -14,9 +14,9 @@ I am currently working as a Development Engineer for [VNDEV Vietnam](https://vn-
 
 ### Check out my social medias:
 
-- 📫 [Personal blog](https://tayto.club)
-- 💬 [Facebook](https://www.facebook.com/namthz)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/namthz/)
+- 📫  _ [Personal blog](https://tayto.club)
+- 💬  _ [Facebook](https://www.facebook.com/namthz)
+- 🔗  _ [LinkedIn](https://www.linkedin.com/in/namthz/)
 
 ![nam-th's github stats](https://github-readme-stats.vercel.app/api?username=namthz&show_icons=true)
 

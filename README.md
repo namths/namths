@@ -10,12 +10,12 @@
               ||     ||
 </pre>
 
-I am currently working as a Development Engineer for [VNDEV Vietnam](https://vn-dev.com) ...👋
+I am currently working as a Development Engineer for [Techcom Securities JSC](https://www.tcbs.com.vn/) ...👋
 
 ### Check out my social medias:
 
 - 📫  _ [Personal blog](https://tayto.club)
-- 💬  _ [Facebook](https://www.facebook.com/namths)
+- 💬  _ [Facebook](https://www.facebook.com/mr.namths)
 - 🔗  _ [LinkedIn](https://www.linkedin.com/in/namths/)
 
 ![nam-th's github stats](https://github-readme-stats.vercel.app/api?username=namths&show_icons=true)

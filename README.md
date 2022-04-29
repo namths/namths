@@ -1,13 +1,9 @@
 ### Hi there 👋
 <pre>
 ----------------------------------------
-<span> ⚡ namths ⚡, Hello World!!</span>
+<span> ⚡ Huy Nam ⚡, Hello World!!</span>
 ----------------------------------------
-      \   ^__^
-       \  (oo)\_______
-          (__)\ 0   0 )\  *
-              ||--0-w | \/
-              ||     ||
+(҂`_´)
 </pre>
 
 I am currently working as a Development Engineer for [Techcom Securities JSC](https://www.tcbs.com.vn/) ...👋
@@ -17,8 +13,6 @@ I am currently working as a Development Engineer for [Techcom Securities JSC](ht
 - 📫  _ [Personal blog](https://tayto.club)
 - 💬  _ [Facebook](https://www.facebook.com/mr.namths)
 - 🔗  _ [LinkedIn](https://www.linkedin.com/in/namths/)
-
-![nam-th's github stats](https://github-readme-stats.vercel.app/api?username=namths&show_icons=true)
 
 ### and just a funny gif...😛
 ![https://tayto.club](https://media.giphy.com/media/l3nSWRgDAparB8ad2/giphy.gif)

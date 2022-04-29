@@ -1,9 +1,9 @@
 ### Hi there 👋
 <pre>
 ----------------------------------------
-<span> ⚡ Huy Nam ⚡, Hello World!!</span>
+<span> ⚡ Huy Nam ⚡, (҂`_´)! </span>
 ----------------------------------------
-(҂`_´)
+
 </pre>
 
 I am currently working as a Development Engineer for [Techcom Securities JSC](https://www.tcbs.com.vn/) ...👋

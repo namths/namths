@@ -10,7 +10,7 @@ I am currently working as a Development Engineer for [Techcom Securities](https:
 
 ### Check out my social medias:
 
-- 📫  _ [Personal blog](https://thitluoc.com)
+- 📫  _ [Personal blog](https://huynam.dev)
 
 ### and just a funny gif...😛
-![https://tayto.club](https://media.giphy.com/media/l3nSWRgDAparB8ad2/giphy.gif)
+![https://huynam.dev(https://media.giphy.com/media/l3nSWRgDAparB8ad2/giphy.gif)
